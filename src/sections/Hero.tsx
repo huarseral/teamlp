@@ -1,4 +1,4 @@
-import heroImg from '../assets/images/profile.jpg'
+import heroImg from '../assets/images/profile.jpg';
 import { STATS } from '../data/content'
 
 export default function Hero() {
@@ -10,7 +10,7 @@ export default function Hero() {
       {/* Left content */}
       <div className="relative z-10 flex flex-col justify-center px-8 md:px-16 pt-28 pb-16">
         <p className="font-orbitron text-[0.6rem] tracking-[4px] text-green-brand uppercase mb-5">
-          LAChirana Plat · Tu Plataforma Elearning
+          LAChirana Plat 2.6· Tu Plataforma Elearning
         </p>
 
         <h1 className="font-orbitron font-black text-4xl md:text-5xl lg:text-6xl leading-[1.05] mb-5">
